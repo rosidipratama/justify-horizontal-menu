@@ -3,9 +3,4 @@ This is the sample HTML and CSS about how to Justify Horizontal Menu Automatical
 
 Thanks,
 
-Rosidi Nursahid Pratama
-Front-end Developer (Drupal & Magento)
-Indonesia
-rosidi.pratama@gmail.com
-www.linkedin.com/in/rosidipratama
-https://github.com/rosidipratama
+Rosidi Pratama
